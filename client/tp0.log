@@ -1,3 +1,9 @@
 [INFO] 13:05:19:693 mi_logger/(1951:1951): VALOR DE CONFIG: valor
 [INFO] 13:05:25:626 mi_logger/(1951:1951): Hola
 [INFO] 13:05:27:125 mi_logger/(1951:1951): Mundo
+[INFO] 15:12:18:067 mi_logger/(3517:3517): VALOR DE CONFIG: valor
+[INFO] 15:12:21:264 mi_logger/(3517:3517): Hola
+[INFO] 15:22:11:769 mi_logger/(3600:3600): VALOR DE CONFIG: valor
+[INFO] 15:22:15:004 mi_logger/(3600:3600): Hola
+[INFO] 15:28:23:372 mi_logger/(3659:3659): VALOR DE CONFIG: valor
+[INFO] 15:28:28:156 mi_logger/(3659:3659): Hola

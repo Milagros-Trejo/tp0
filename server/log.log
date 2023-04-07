@@ -1,0 +1,16 @@
+[INFO] 15:12:07:888 Servidor/(3506:3506): Listo para escuchar a mi cliente
+[INFO] 15:12:07:892 Servidor/(3506:3506): Servidor listo para recibir al cliente
+[INFO] 15:12:07:898 Servidor/(3506:3506): Accept()!
+[INFO] 15:22:15:900 Servidor/(3506:3506): Se conecto un cliente!
+[ERROR] 15:22:36:597 Servidor/(3506:3506): el cliente se desconecto. Terminando servidor
+[INFO] 15:27:36:902 Servidor/(3629:3629): Listo para escuchar a mi cliente
+[INFO] 15:27:36:904 Servidor/(3629:3629): Servidor listo para recibir al cliente
+[INFO] 15:27:36:916 Servidor/(3629:3629): Accept()!
+[INFO] 15:28:28:703 Servidor/(3629:3629): Se conecto un cliente!
+[INFO] 15:28:39:657 Servidor/(3629:3629): Me llegaron los siguientes valores:
+
+[INFO] 15:28:39:659 Servidor/(3629:3629): EstoúU
+[INFO] 15:28:39:659 Servidor/(3629:3629): Esÿ_
+[INFO] 15:28:39:659 Servidor/(3629:3629): UnË@¨
+[INFO] 15:28:39:659 Servidor/(3629:3629): Paquete
+[ERROR] 15:28:39:659 Servidor/(3629:3629): el cliente se desconecto. Terminando servidor

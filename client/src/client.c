@@ -93,7 +93,6 @@ void leer_consola(t_log* logger)
 		log_info(logger, "%s", leido);
 		leido = readline("> ");
 	}
-	printf("sale");
 
 	// ¡No te olvides de liberar las lineas antes de regresar!
 	free(leido);
